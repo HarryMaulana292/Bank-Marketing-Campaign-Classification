@@ -96,3 +96,5 @@ Hal-hal yang dapat dilakukan untuk mengembangkan project dan modelnya agar lebih
 
 ---
 Link Slide PPT dapat diakses di [sini](https://www.canva.com/design/DAFly_7VLhY/hkq7xcELBnH5rbi84fYocA/view?utm_content=DAFly_7VLhY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+Model deploymeny using streamlit dapat diakses di [sini](https://harrymaulana292-deployment-bank-marketing-campaign-c-app-ilnq8b.streamlit.app/)
