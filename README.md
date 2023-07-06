@@ -91,7 +91,7 @@ Therefore, the bank has saved approximately (747 - 510) = $237 in marketing cost
 Things that can be done to develop the project and model to make it better in the future are as follows.
 * Other data on feature contact should be made more specific. By making the data from the contact feature more specific besides cellular and telephone (for example: email, whatsapp, facebook, or other platforms) so that the information that can be obtained for the most important features in the classification of determining whether a customer will deposit or not can be clearer and better.
 * Adding new data/features such as marketing costs for each customer and the profit earned from marketing by each customer. With this we can do further analysis regarding the efficiency of marketing done to customers. We can also use this data to calculate profits if we use the model that has been created. 
-* Increase the data from the bank itself so that the predictions made can be better.
+* Add more data from the bank itself so that the predictions made can be better.
 * Using a wider hyperparameter space to find the best hyperparameter if we still use the Adaboost model.
 ---
 PPT Slide link can be accessed [here](https://www.canva.com/design/DAFly_7VLhY/hkq7xcELBnH5rbi84fYocA/view?utm_content=DAFly_7VLhY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
